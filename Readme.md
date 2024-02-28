@@ -1,4 +1,4 @@
-![Header](mnhj.png)
+![Header](docs/mnhj.png)
 
 ## ABOUT
 
